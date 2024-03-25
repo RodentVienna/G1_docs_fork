@@ -10,3 +10,20 @@ X-2020-Extrusion 395mm ( Will have to drill a hole for the M5 screw to go though
 ![G1 Front](https://github.com/WidowMaker-3D/G1/blob/main/G1v3_Front_View.png)
 
 ![G1 Back](https://github.com/WidowMaker-3D/G1/blob/main/G1v3_Back_View.png)
+
+Building process:
+
+0) Ordering all parts - your mileage may vary with Links provided in BOM. 
+1) Print Parts - Link to Folder - note about STLs provided are not oriented.
+
+Orientation: (Images)
+
+Pring Settings: (Images)
+
+2) Assembly Steps
+   Bearing Stack
+   Moouting Motors
+   Mounting 20T Pulleys
+
+4) Other Ender 6 Mods noteworthy
+   
